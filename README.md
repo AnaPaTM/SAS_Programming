@@ -7,7 +7,7 @@ I am a statistician with experience in data analysis, statistical modeling, rese
 
 ## SAS Program Sample
 The SAS program presented here was used as part of a prestigious project for the National Evaluation of Magnet Schools (NEMS). 
-I'm an experienced SAS pragrammer and I can use SAS in various ways. Check out my sample SAS program [HERE](./MatchingBasedReg_scenario_3-3_3-2-done.sas). 
+I'm an experienced SAS pragrammer and I can use SAS in various ways. Check out my sample SAS code [HERE](./MatchingBasedReg_scenario_3-3_3-2-done.sas). 
 
 ## Featured Project
 
