@@ -6,7 +6,7 @@ Welcome to my statistics and SAS programming portfolio.
 I am a statistician with experience in data analysis, statistical modeling, research, and data science. This portfolio showcases selected projects demonstrating my skills in SAS, statistical analysis, data visualization, predictive modeling, and data communication.
 
 ## SAS Program Sample
-The SAS program presented here was created as part of a prestigious project for the National Evaluation of Magnet Schools (NEMS). 
+The SAS program presented here was created as part of a prestigious project for the National Evaluation of Magnet Schools (NEMS) by the U.S. Department of Education. 
 I'm an experienced SAS pragrammer and I can use SAS in various ways. Check out my sample SAS code [HERE](./MatchingBasedReg_scenario_3-3_3-2-done.sas). 
 
 ## Featured Project
