@@ -319,7 +319,7 @@ Options Obs=Max Ls=Max Ps=max Nocenter Mprint NoXWait Compress=yes Fullstimer No
 	 
 %MEnd; 
 *** FOR 3-3;
-%*MatchingStudy (Inpath= ..., 
+%MatchingStudy (Inpath= ..., 
                 Outpath= ..., 
                 DSN=  ...
 		);                        
