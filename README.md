@@ -3,7 +3,7 @@
 
 Welcome to my statistics and SAS programming portfolio.
 
-I am a statistician with experience in data analysis, statistical modeling, research, and data science. This portfolio showcases selected projects demonstrating my skills in SAS, statistical analysis, data visualization, predictive modeling, and data communication.
+I am a statistician with experience in data analysis, statistical modeling, research, and data science. This portfolio showcases a specific project demonstrating my skills in SAS, statistical analysis, data visualization, statistical modeling, and data communication.
 
 ## Featured Project
 The SAS program presented here was created as part of a prestigious project conducted by The American Institutes for Research and funded by the U.S. Department of Education for the National Evaluation of Magnet Schools (NEMS).
