@@ -12,7 +12,7 @@ I'm an experienced SAS pragrammer and I can use SAS in various ways. Check out m
 ## Featured Project
 The following paper was criated as part of this project:
 [An Evaluation of Alternative Matching Techniques for Use in Comparative Interrupted Time Series Analyses: An Application to Elementary Education
-March 2010, by Julian Betts, Jesse Levin, Ana Paula Miranda, Bruce Christenson, Marian Eaton and Hans Bos](./Betts-et-al.-2010---Matching-for-CITS.pdf).
+March 2010, by Julian Betts, Jesse Levin, Ana Paula Miranda, Bruce Christenson, Marian Eaton and Hans Bos](./Betts-et-al.2010---Matching-for-CITS.pdf).
 
 ## Technical Skills
 **SAS Programmer | Git/GitHub | Statistical Modeling | Regression | Time Series | Proc SQL**
