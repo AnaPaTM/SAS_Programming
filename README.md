@@ -4,7 +4,7 @@
 
 Welcome to my statistics and SAS programming portfolio.
 
-I am a statistician with experience in data analysis, statistical modeling, research, and data science. This portfolio showcases selected projects demonstrating my skills in SAS, statistical analysis, data visualization, predictive modeling, and data communication.
+I am a statistician with experience in data analysis, statistical modeling, research, and data science. This portfolio showcases a specific project demonstrating my skills in SAS, statistical analysis, data visualization, statistical modeling, and data communication.
 
 ## Featured Project
 
@@ -13,7 +13,7 @@ I'm an experienced SAS programmer and I can use SAS in various ways. Check out m
 
 The following paper was created as part of this project:
 [An Evaluation of Alternative Matching Techniques for Use in Comparative Interrupted Time Series Analyses: An Application to Elementary Education
-March 2010, by Julian Betts, Jesse Levin, Ana Paula Miranda, Bruce Christenson, Marian Eaton and Hans Bos](./Betts-et-al.2010---Matching-for-CITS.pdf).
+March 2010, by Julian Betts, Jesse Levin, Ana Paula Miranda, Bruce Christenson, Marian Eaton and Hans Bos](./Betts-et-al.-2010-Matching-for-CITS.pdf).
 
 ## Technical Skills
 
