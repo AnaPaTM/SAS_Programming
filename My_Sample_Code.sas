@@ -1,5 +1,5 @@
 %*********************************************************************;
-%**	Program: MatchingBasedReg_scenario_3-3_3-2.sas
+%**	Program: My_Sample_Code.sas
 %**
 %**	Project:  Matching Techniques - for NEMS
 %**			
