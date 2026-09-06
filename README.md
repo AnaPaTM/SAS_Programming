@@ -9,7 +9,7 @@ I am a statistician with experience in data analysis, statistical modeling, rese
 ## Featured Project
 
 The SAS program presented here was created as part of a prestigious project conducted by The American Institutes for Research and funded by the U.S. Department of Education for the National Evaluation of Magnet Schools (NEMS).
-I'm an experienced SAS programmer and I can use SAS in various ways. Check out my sample SAS code [HERE](./MatchingBasedReg_scenario_3-3_3-2.sas).
+I'm an experienced SAS programmer and I can use SAS in various ways. Check out my sample SAS code [HERE](./My_Sample_Code.sas).
 
 The following paper was created as part of this project:
 [An Evaluation of Alternative Matching Techniques for Use in Comparative Interrupted Time Series Analyses: An Application to Elementary Education
