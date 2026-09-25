@@ -1,7 +1,7 @@
 %*********************************************************************;
 %**	Program: My_Sample_Code.sas
 %**
-%**	Project:  Matching Techniques - for NEMS
+%**	Project:  Matching Techniques for NEMS
 %**			
 %**	Objective: Parte of a Monte Carlo Simulation
 %**
