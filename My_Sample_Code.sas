@@ -1,5 +1,5 @@
 %*********************************************************************;
-%**	Program: MatchingBasedReg_scenario_3-3_3-2.sas
+%**	Program: My_Sample_Code.sas
 %**
 %**	Project:  Matching Techniques - for NEMS
 %**			
@@ -98,7 +98,7 @@ Options Obs=Max Ls=Max Ps=max Nocenter Mprint NoXWait Compress=yes Fullstimer No
 				NCombinations = (Fact(&NObs.)/(Fact(&NObs.-2)*2));***for checks only;
 				Record_Number+1;           			           			
 				_XBeta_Magnet = &XBeta_Magnet.;
-				***JULIAN FIX1 - abs function was moved from here to the mathing step below instead;
+				***FIX1 - abs function was moved from here to the mathing step below instead;
 				_XBeta{Record_Number}=(Xbeta_change_4_3 - _XBeta_Magnet);					
 
 				School_RowID = Catx("-", NCESSCH, Record_Number); 
@@ -182,7 +182,7 @@ Options Obs=Max Ls=Max Ps=max Nocenter Mprint NoXWait Compress=yes Fullstimer No
 			data Year_&Year.;
 				set &Subject._Loop&Loop._Matched;;
 
-				 **JULIAN FIX2;	 
+				 **FIX2;	 
 				 **coding a new hypothetical magnet status dummy to no status during the first 3 years of data;
 				 **the magnet status will only start showing at year 4 and forward;
 				 %if &Year.=1 %then rand_mag&loop._fake=0;;
@@ -283,7 +283,7 @@ Options Obs=Max Ls=Max Ps=max Nocenter Mprint NoXWait Compress=yes Fullstimer No
 			
 			ODS output GEEEmpPEst=ParameterEsts_&subject._loop&loop.;
 		run; 
-		/*JULIAN FIX3: For the YEAR*DISTRICT interaction dummies, I've applied the following fix "... To fix this, leave the above year dummies 
+		/*FIX3: For the YEAR*DISTRICT interaction dummies, I've applied the following fix "... To fix this, leave the above year dummies 
 		  in to control for trends in the first district, and then add interactions between the year 2 through last year dummies and dummies 
 		  for each of second through nth districts." */ 
 
