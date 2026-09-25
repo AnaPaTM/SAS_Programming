@@ -3,7 +3,7 @@
 %**
 %**	Project:  Matching Techniques for NEMS
 %**			
-%**	Objective: Parte of a Monte Carlo Simulation
+%**	Objective: Monte Carlo Simulation
 %**
 %**	Author: Ana Paula Miranda
 %**
@@ -11,7 +11,7 @@
 %**
 %**	Date Modifiend:
 %**
-%**	Comments: Please see the beauty of this program and coding techniques. Enjoy!
+%**	Comments: Please take a look at the beauty of this program and the coding techniques behind it. Enjoy!
 %**********************************************************************;
 
 Options Obs=Max Ls=Max Ps=max Nocenter Mprint NoXWait Compress=yes Fullstimer Nomtrace Nomlogic Formchar="|----|+|---+=|-/\<>*" 
@@ -177,7 +177,7 @@ Options Obs=Max Ls=Max Ps=max Nocenter Mprint NoXWait Compress=yes Fullstimer No
 			select count(unique NCESSCH) into :N_Schools from &Subject._Loop&Loop._Matched;
 		quit;
 		
-		***Creating the LONG file ***;
+		*** Creating the LONG file ***;
 		%do Year=&startyr. %to &endyr.;
 			data Year_&Year.;
 				set &Subject._Loop&Loop._Matched;;
@@ -292,7 +292,7 @@ Options Obs=Max Ls=Max Ps=max Nocenter Mprint NoXWait Compress=yes Fullstimer No
 	 %end;
 	 
 	 
-	***Saving all parameters from loop1-whatever from the Hyp Magnet in a single file;
+	***Saving all parameters from loop1-whatever from the Hyp Magnet into a single file;
 	 data out.Parameters_&Subject._&N_loops.x;
 	 	length Parm $50;
 	 	set %do Loop=&StartLoop. %to &N_loops.; ParameterEsts_&subject._loop&loop. (where=(Parm="rand_mag&loop._fake")) %end;; 
