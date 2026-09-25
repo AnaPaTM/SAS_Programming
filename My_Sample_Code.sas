@@ -221,7 +221,7 @@ Options Obs=Max Ls=Max Ps=max Nocenter Mprint NoXWait Compress=yes Fullstimer No
 				%end;;
 			by LEAID NCESSCH;
 			
-			***Building the fixed effects dummies***;
+			***Building the fixed effect dummies***;
 			**1) Year;
 			%do Year=&startyr. %to &endyr.;
 				Year_0&Year.=(Data_&Year.=1);
